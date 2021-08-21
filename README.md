@@ -1,16 +1,30 @@
-### Hi there 👋
+![githun](https://user-images.githubusercontent.com/39315916/130321260-09ed1d9f-343a-433a-875c-7d053f403484.png)
+<h1 align='center'> Hello! :wave:</h1>
+<p align='center'>
+  <b>I'm kriziu. My real name is Bruno Dzięcielski and I'm a young polish react developer.</b>
+</p>
 
-<!--
-**kriziu/kriziu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+
+
+
+
+### 💻 Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriziu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+> Find a way not ax excuse.
