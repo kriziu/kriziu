@@ -27,4 +27,4 @@
 
 <br />
 
-> Find a way not ax excuse.
+> Find a way not an excuse.
