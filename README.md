@@ -1,4 +1,3 @@
-![githun](https://user-images.githubusercontent.com/39315916/130321260-09ed1d9f-343a-433a-875c-7d053f403484.png)
 <h1 align='center'> Hello! :wave:</h1>
 <p align='center'>
   <b>I'm kriziu. My real name is Bruno Dzięcielski and I'm a young polish react developer.</b>
