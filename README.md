@@ -1,6 +1,7 @@
 # 💫 About Me
 My name is <b>Bruno Dzięcielski</b> and I'm a react developer with freelancing experience. <br /> <br />
 Currently I'm making portfolio projects with Next.JS to gain experience and get a first job as developer.
+Visit my portoflio site: [brunodzi.dev](https://brunodzi.dev)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dzięcielski-1a0581211/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Delay_Sufficient) 
