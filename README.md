@@ -1,6 +1,6 @@
 # 💫 About Me
 My name is <b>Bruno Dzięcielski</b> and I'm a react developer with freelancing experience. <br /> <br />
-Currently I'm making portfolio projects with Next.JS to gain experience and get a first job as developer.
+Currently I'm making portfolio projects with Next.JS to gain experience and get a first job as developer. <br /> <br />
 Visit my portoflio site: [brunodzi.dev](https://brunodzi.dev)
 
 ## 🌐 Socials
